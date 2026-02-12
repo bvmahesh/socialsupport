@@ -1,0 +1,82 @@
+{
+  "portalTitle": "Social Support Portal",
+  "portalSubtitle": "Government Financial Assistance Services",
+
+  "missionTitle": "Apply for Financial Assistance Easily",
+  "missionText": "This portal allows citizens to apply for financial assistance easily, quickly, and securely. Please complete the steps below to submit your application.",
+
+  "step1": "Step 1 of 3 — About You",
+  "continue": "Continue",
+  "required": "Fields marked with * are required.",
+
+  "fullName": "Full Name",
+  "nationalId": "National ID Number",
+  "dob": "Date of Birth",
+  "gender": "Gender",
+  "address": "Home Address",
+  "city": "City",
+  "state": "State / Province",
+  "country": "Country",
+  "phone": "Phone Number",
+  "email": "Email Address",
+   "requiredField": "This field is required",
+  "requiredNote": "Fields marked with * are required.",
+  "selectOption": "Select an option",
+  "male": "Male",
+  "female": "Female",
+  "other": "Other",
+   "step2Title": "Step 2 of 3 — Family and Financial Information",
+  "step3Title": "Step 3 of 3 — Tell Us About Your Situation",
+
+  "maritalStatus": "Marital Status",
+  "dependents": "Number of Dependents",
+  "employmentStatus": "Employment Status",
+  "monthlyIncome": "Monthly Income",
+  "housingStatus": "Housing Status",
+
+  "single": "Single",
+  "married": "Married",
+  "divorced": "Divorced",
+  "widowed": "Widowed",
+
+  "employed": "Employed",
+  "unemployed": "Unemployed",
+  "selfEmployed": "Self-Employed",
+
+  "own": "Own",
+  "rent": "Rent",
+
+  "back": "Back",
+  "submitApplication": "Submit Application",
+  "accept": "Accept",
+
+  "personalInfo": "Personal Information",
+  "familyFinancial": "Family & Financial Information",
+  "situationDesc": "Situation Descriptions",
+  
+  "invalidEmail": "Invalid email address",
+  "minName": "Name must be at least 3 characters",
+
+
+  "edit": "Edit",
+  "reject": "Discard",
+
+  "dependentsMin": "Dependents cannot be negative",
+  "incomeMin": "Monthly income must be greater than 0",
+
+  "financialSituation": "Current Financial Situation",
+  "employmentCircumstances": "Employment Circumstances",
+  "reasonForApplying": "Reason for Applying",
+  "helpMeWrite": "Help Me Write",
+  "aiFinancial": "I am facing financial difficulties due to low income.",
+  "aiEmployment": "I am currently unemployed and seeking work.",
+  "aiReason": "I am applying to support my family.",
+  "requiredAllFields": "Please fill all fields",
+  "submittedSuccess": "Application submitted successfully",
+  "applicationReceived": "Your application has been successfully received.",
+  "phoneTenDigits": "Phone number must be exactly 10 digits",
+  "isRequired":"is required"
+
+
+
+}

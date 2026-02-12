@@ -1,0 +1,80 @@
+{
+  "portalTitle": "بوابة الدعم الاجتماعي الوطنية",
+  "portalSubtitle": "خدمات المساعدة المالية الحكومية",
+
+  "missionTitle": "تقديم طلب المساعدة المالية بسهولة",
+  "missionText": "تتيح هذه البوابة للمواطنين التقديم للحصول على المساعدة المالية بسهولة وسرعة وأمان. يرجى إكمال الخطوات التالية لإرسال طلبك.",
+
+  "step1": "الخطوة 1 من 3 — معلوماتك",
+  "required": "الحقول التي تحتوي على * مطلوبة.",
+
+  "fullName": "الاسم الكامل",
+  "nationalId": "رقم الهوية الوطنية",
+  "dob": "تاريخ الميلاد",
+  "gender": "الجنس",
+  "address": "عنوان السكن",
+  "city": "المدينة",
+  "state": "الولاية / المنطقة",
+  "country": "الدولة",
+  "phone": "رقم الهاتف",
+  "email": "البريد الإلكتروني",
+  "requiredNote": "الحقول التي تحتوي على * مطلوبة.",
+  "male": "ذكر",
+  "female": "أنثى",
+
+  "personalInfo": "المعلومات الشخصية",
+  "familyFinancial": "معلومات الأسرة والدخل",
+  "situationDesc": "وصف الحالة",
+
+
+
+  "invalidEmail": "البريد الإلكتروني غير صالح",
+  "minName": "يجب أن يحتوي الاسم على 3 أحرف على الأقل",
+
+
+  "onlyAlphabets": "يسمح بالحروف فقط",
+  "invalidPhone": "رقم هاتف غير صالح",
+
+  
+  "aiFinancial": "أواجه صعوبات مالية حاليًا بسبب انخفاض الدخل.",
+  "aiEmployment": "أنا عاطل عن العمل وأبحث بنشاط عن وظيفة.",
+  "aiReason": "أتقدم بطلب للحصول على دعم لمساعدة أسرتي.",
+  "requiredAllFields": "يرجى تعبئة جميع الحقول",
+  "submittedSuccess": "تم إرسال الطلب بنجاح",
+
+  "maritalStatus": "الحالة الاجتماعية",
+  "dependents": "عدد المعالين",
+  "employmentStatus": "الحالة الوظيفية",
+  "monthlyIncome": "الدخل الشهري",
+  "housingStatus": "حالة السكن",
+
+  "single": "أعزب",
+  "married": "متزوج",
+  "divorced": "مطلق",
+  "widowed": "أرمل",
+
+  "employed": "موظف",
+  "unemployed": "عاطل عن العمل",
+  "selfEmployed": "عمل حر",
+
+  "own": "ملك",
+  "rent": "إيجار",
+  "other": "أخرى",
+
+  "financialSituation": "الوضع المالي الحالي",
+  "employmentCircumstances": "الظروف الوظيفية",
+  "reasonForApplying": "سبب التقديم",
+
+  "helpMeWrite": "ساعدني في الكتابة",
+  "accept": "موافقة",
+  "edit": "تعديل",
+  "reject": "رفض",
+  "submitApplication": "إرسال الطلب",
+  "back": "رجوع",
+  "continue": "استمرار",
+  "requiredField": "هذا الحقل مطلوب",
+  "selectOption": "اختر",
+  "applicationReceived": "تم استلام طلبك بنجاح.",
+  "isRequired": "مطلوب",
+  "incomeMin": "يجب أن يكون الدخل الشهري أكبر من 0"
+}
